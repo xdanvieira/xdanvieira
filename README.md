@@ -1,4 +1,3 @@
-```markdown
 # 🌎 Danilo Vieira
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2E8B57&height=220&section=header&text=Danilo%20Vieira&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Geospatial%20Data%20Science%20%7C%20Environmental%20Intelligence%20%7C%20Remote%20Sensing&descAlignY=55&descSize=17"/>
