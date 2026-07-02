@@ -218,21 +218,13 @@ Projetos envolvendo aquisição, tratamento e análise de dados obtidos por RPA/
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-<div align="center">
+![GitHub Profile](https://img.shields.io/badge/GitHub-xdanvieira-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=xdanvieira&show_icons=true&theme=dark&hide_border=true" 
-/>
+![Repositórios](https://img.shields.io/badge/Portf%C3%B3lio-Projetos%20de%20Data%20Science%20%26%20Geotecnologias-2E8B57?style=for-the-badge)
 
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdanvieira&layout=compact&theme=dark&hide_border=true" 
-/>
-
-</div>
+![Foco](https://img.shields.io/badge/Foco-Geospatial%20Data%20Science-0D1117?style=for-the-badge)
 
 ---
 
