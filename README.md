@@ -250,24 +250,18 @@ Projetos envolvendo aquisição, tratamento e análise de dados obtidos por RPA/
 
 ---
 
-## 🏆 GitHub Trophies
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=xdanvieira&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdanvieira&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdanvieira&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=xdanvieira&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 🐍 Snake Animation
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/xdanvieira/xdanvieira/output/github-contribution-grid-snake.svg)
-
-</div>
-
 ---
 
 ## 🎯 Objetivo Profissional
