@@ -222,9 +222,15 @@ Projetos envolvendo aquisição, tratamento e análise de dados obtidos por RPA/
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdanvieira&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600)
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api?username=xdanvieira&show_icons=true&theme=dark&hide_border=true" 
+/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdanvieira&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600)
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdanvieira&layout=compact&theme=dark&hide_border=true" 
+/>
 
 </div>
 
