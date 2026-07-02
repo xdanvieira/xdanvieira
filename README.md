@@ -55,15 +55,19 @@ Atualmente atuo com projetos que integram **Ciência de Dados, Machine Learning,
 <br><br>
 
 ---
-
 ## 🌍 Geotecnologias
 
-<img align="left" alt="QGIS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png"/>
-<img align="left" alt="ArcGIS" width="35px" src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png"/>
-<img align="left" alt="Google Earth Engine" width="35px" src="https://developers.google.com/earth-engine/images/earth-engine-icon.png"/>
-<img align="left" alt="GeoServer" width="35px" src="https://geoserver.org/img/geoserver-logo.png"/>
+<p align="left">
 
-<br><br>
+<img alt="QGIS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg"/>
+
+<img alt="PostGIS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+<img alt="Google Earth Engine" width="40px" src="https://www.vectorlogo.zone/logos/google_earth/google_earth-icon.svg"/>
+
+<img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+</p>
 
 ---
 
