@@ -208,15 +208,18 @@ Projetos envolvendo aquisição, tratamento e análise de dados obtidos por RPA/
 - Streamlit
 
 ---
-
-# 📈 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=xdanvieira&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+  />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xdanvieira&show_icons=true&theme=tokyonight&locale=pt-br"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdanvieira&layout=compact&theme=tokyonight"/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdanvieira&layout=compact&theme=github_dark&hide_border=true"
+  />
 </p>
 
 ---
