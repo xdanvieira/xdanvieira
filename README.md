@@ -44,57 +44,37 @@ Atualmente atuo com projetos que integram **Ciência de Dados, Machine Learning,
 
 <br><br>
 
+
 ---
 
 ## 🗄 Banco de Dados
 
-<img align="left" alt="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="PostGIS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Postgis-logo.png"/>
-<img align="left" alt="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
-<br><br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+
 ## 🌍 Geotecnologias
 
-<p align="left">
-
-<img alt="QGIS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg"/>
-
-<img alt="PostGIS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-
-<img alt="Google Earth Engine" width="40px" src="https://www.vectorlogo.zone/logos/google_earth/google_earth-icon.svg"/>
-
-<img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-</p>
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
+![Google%20Earth%20Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+![GeoServer](https://img.shields.io/badge/GeoServer-6DB33F?style=for-the-badge)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white)
 
 ---
 
-## 🛰 Sensoriamento Remoto
+## 🛰 Sensoriamento Remoto e Drone
 
-- Sentinel
-- Landsat
-- Planet
-- CBERS
-- MapBiomas
-- NDVI
-- NDWI
-- Processamento Digital de Imagens
-- Classificação de Imagens
-- Análise Multitemporal
+![Sentinel-2](https://img.shields.io/badge/Sentinel--2-009639?style=for-the-badge)
+![Landsat](https://img.shields.io/badge/Landsat-005A9C?style=for-the-badge)
+![MapBiomas](https://img.shields.io/badge/MapBiomas-228B22?style=for-the-badge)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+![Drone](https://img.shields.io/badge/Drone-Aerofotogrametria-1E88E5?style=for-the-badge)
+![Photogrammetry](https://img.shields.io/badge/Photogrammetry-795548?style=for-the-badge)
 
 ---
-
-## 🚁 Drone e Aerofotogrametria
-
-- Planejamento de missões
-- Aquisição de dados com RPA/Drone
-- Geração de ortomosaicos
-- Modelo Digital de Terreno — MDT
-- Modelo Digital de Superfície — MDS
-- Nuvem de pontos
-- Produtos cartográficos para fiscalização e monitoramento ambiental
 
 ---
 
