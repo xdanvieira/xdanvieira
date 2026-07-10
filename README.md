@@ -7,7 +7,7 @@
 
 **`Geospatial Data Scientist | Engenheiro Ambiental | Especialista em Geotecnologias`**
 
-Sou **Danilo Vieira**, Engenheiro Ambiental, especialista em Geotecnologias e atualmente em formação em **Ciência de Dados**.
+Olá, sou **Danilo Vieira**, Engenheiro Ambiental, especialista em Geotecnologias e Ciência de Dados.
 
 Tenho mais de **15 anos de experiência** em geoprocessamento, sensoriamento remoto, monitoramento ambiental, análise espacial, drones, gestão territorial e desenvolvimento de soluções geoespaciais.
 
