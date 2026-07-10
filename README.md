@@ -15,33 +15,105 @@ Atuo na integração entre **Ciência de Dados, Machine Learning, Inteligência 
 
 ---
 
+### Detalhes
 
-## 🧠 T-Shaped Professional/Multidisciplinary Profile
+[![Danilo Vieira's GitHub stats](https://github-stats-extended.vercel.app/api?username=xdanvieira&show_icons=true&theme=dark)](https://github.com/xdanvieira)
 
-Minha trajetória combina **profundidade técnica** em Geotecnologias, Sensoriamento Remoto e Ciência de Dados com uma atuação **multidisciplinar** em diferentes etapas do ciclo de vida de produtos digitais e soluções de inteligência geoespacial.
+### Projetos em destaque
 
-### Especialidade (Profundidade)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌳 Predição de Criticidade Ambiental</h3>
+      <p>
+        Modelo de Machine Learning aplicado ao monitoramento ambiental para prever criticidade em imóveis rurais utilizando dados do MapBiomas Alerta e CAR.
+      </p>
+      <p>
+        <strong>Tecnologias:</strong> Python · Pandas · Scikit-learn · GeoPandas · Random Forest
+      </p>
+      <a href="https://github.com/xdanvieira">
+        <img src="https://img.shields.io/badge/Reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🛰️ Áreas Prioritárias para Fiscalização</h3>
+      <p>
+        Modelo espacial com Google Earth Engine e Random Forest para identificação de áreas prioritárias à fiscalização ambiental.
+      </p>
+      <p>
+        <strong>Tecnologias:</strong> Google Earth Engine · JavaScript · Python · Random Forest · Sensoriamento Remoto
+      </p>
+      <a href="https://github.com/xdanvieira">
+        <img src="https://img.shields.io/badge/Reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
 
-- 🌎 Geotecnologias
-- 🛰️ Sensoriamento Remoto
-- 📊 Ciência de Dados
-- 🤖 Machine Learning
-- 🐍 Python
-- 🗺️ Inteligência Geoespacial
+  <tr>
+    <td width="50%">
+      <h3>🌎 SIGWeb GEOBAHIA</h3>
+      <p>
+        Atuação como Product Owner no desenvolvimento e evolução de plataforma WebGIS para integração, consulta e disponibilização de dados geoespaciais ambientais.
+      </p>
+      <p>
+        <strong>Tecnologias:</strong> WebGIS · GeoServer · PostGIS · QGIS · Scrum · Product Owner
+      </p>
+      <a href="http://mapa.geobahia.ba.gov.br/">
+        <img src="https://img.shields.io/badge/Acessar%20Plataforma-2E8B57?style=for-the-badge"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>📊 Painel de Monitoramento Ambiental</h3>
+      <p>
+        Estruturação de indicadores, dashboards e procedimentos de validação de dados geoespaciais para apoio à gestão ambiental e transparência pública.
+      </p>
+      <p>
+        <strong>Tecnologias:</strong> Python · PostgreSQL · PostGIS · Dashboards · Indicadores · QA
+      </p>
+      <a href="https://paineldemonitoramento.inema.ba.gov.br/asv">
+        <img src="https://img.shields.io/badge/Acessar%20Painel-2E8B57?style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
 
-### Competências Transversais
+  <tr>
+    <td width="50%">
+      
+</table>
 
-- 📋 Product Owner (PO)
-- 📝 Levantamento e Análise de Requisitos
+---
+
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=xdanvieira&layout=compact&theme=github_dark)](https://github.com/xdanvieira)
+
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/danilovieira1/)
+
+
+### t-sha
+
+![T-Shaped Professional](https://raw.githubusercontent.com/xdanvieira/xdanvieira/main/assets/t-shaped-professional.svg)
+
+### 🚀 Cross-functional Skills
+
+- 📋 Product Owner
+- 📝 Requirements Engineering
 - 📊 Data Analytics
-- 📈 Dashboards e Business Intelligence
-- 🎨 UX Thinking e definição de fluxos
-- 🧪 Homologação
-- 🗄️ Modelagem e integração de dados geoespaciais
-- 🤝 Comunicação entre usuários, gestores e equipes de desenvolvimento
-- 🚁 Operações com Drone e Aerofotogrametria
-- 🌱 Gestão e Monitoramento Ambiental
+- 📈 Dashboards & Business Intelligence
+- 🎨 UX Thinking
+- 🧪 Validation & QA
+- 🗄️ Spatial Data Integration
+- 🤝 Stakeholder Communication
+- 🚁 Drone & Photogrammetry
+- 🌱 Environmental Monitoring
 
+</td>
+
+</tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack
