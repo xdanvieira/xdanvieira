@@ -56,7 +56,7 @@ Python · Google Earth Engine · QGIS · PostGIS · SQL · GeoPandas · Scikit-l
         Atuação como Product Owner no desenvolvimento e evolução de plataforma WebGIS para integração, consulta e disponibilização de dados geoespaciais ambientais.
       </p>
       <p>
-        <strong>Tecnologias:</strong> WebGIS · GeoServer · PostGIS · QGIS · Scrum · Product Owner
+        <strong>Tecnologias:</strong> WebGIS · GeoServer · QGIS · Scrum · Product Owner
       </p>
       <a href="http://mapa.geobahia.ba.gov.br/">
         <img src="https://img.shields.io/badge/Acessar%20Plataforma-2E8B57?style=for-the-badge"/>
