@@ -68,7 +68,7 @@ Python · Google Earth Engine · QGIS · PostGIS · SQL · GeoPandas · Scikit-l
         Estruturação de indicadores, dashboards e procedimentos de validação de dados geoespaciais para apoio à gestão ambiental e transparência pública.
       </p>
       <p>
-        <strong>Tecnologias:</strong> Python · PostgreSQL · PostGIS · Dashboards · Indicadores · QA
+        <strong>Tecnologias:</strong> Data Science · Dashboards · Indicadores 
       </p>
       <a href="https://paineldemonitoramento.inema.ba.gov.br/asv">
         <img src="https://img.shields.io/badge/Acessar%20Painel-2E8B57?style=for-the-badge"/>
